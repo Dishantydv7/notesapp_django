@@ -1,0 +1,1 @@
+serializer.py = used to take the python objects {user} and convert it into the javascript json adn used in communication
